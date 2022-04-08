@@ -1,6 +1,7 @@
-export const PRODUCTS_API = "http://localhost:8000/products";
+export const PRODUCTS_API =
+  "https://deploy-heroku-js-17.herokuapp.com/products";
 
-export const BRANDS_API = "http://localhost:8000/brands";
+export const BRANDS_API = "https://deploy-heroku-js-17.herokuapp.com/brands";
 
 export const ADMIN_EMAIL = "begimay@gmail.com";
 // const brands = [
